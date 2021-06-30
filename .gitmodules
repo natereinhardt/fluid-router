@@ -1,0 +1,6 @@
+[submodule "fluid-router-ui"]
+	path = fluid-router-ui
+	url = https://github.com/natereinhardt/fluid-router-ui
+[submodule "fluid-router-api"]
+	path = fluid-router-api
+	url = https://github.com/natereinhardt/fluid-router-api
